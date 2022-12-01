@@ -6,6 +6,11 @@ then run npm start to start the server
 
 routes:
 
+
 localhost:4000/datbois
+
+
 localhost:4000/floor/:collection
+
+
 localhost:4000/wallet/:walletaddress
